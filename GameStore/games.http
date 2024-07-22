@@ -1,0 +1,30 @@
+GET http://localhost:5275/games
+
+###
+GET http://localhost:5275/games/3
+
+###
+POST http://localhost:5275/games
+Content-Type: application/json
+
+{
+    "name": "MGS",
+    "genreId": 1,
+    "price": 39.99,
+    "releaseDate": "2011-02-10"
+}
+
+###
+PUT http://localhost:5275/games/3
+Content-Type: application/json
+
+{
+    "name": "TLOU2",
+    "genreId": 1,
+    "price": 59.99,
+    "releaseDate": "2015-05-19"
+}
+
+###
+DELETE http://localhost:5275/games/1
+
