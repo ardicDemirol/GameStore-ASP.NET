@@ -179,3 +179,4 @@ C:\Users\demro\Desktop\Coding\BackEndProjects\GameStore\GameStore\bin\Debug\net8
 C:\Users\demro\Desktop\Coding\BackEndProjects\GameStore\GameStore\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\demro\Desktop\Coding\BackEndProjects\GameStore\GameStore\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\demro\Desktop\Coding\BackEndProjects\GameStore\GameStore\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\demro\Desktop\Coding\BackEndProjects\GameStore\GameStore\obj\Debug\net8.0\GameStore.sourcelink.json

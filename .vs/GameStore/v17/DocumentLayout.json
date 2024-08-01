@@ -3,72 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\GameStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D7A9E713-B6F4-4419-A5AA-8C91E4D5BFFE}|GameStore\\GameStore.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\gamestore\\gamestore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D7A9E713-B6F4-4419-A5AA-8C91E4D5BFFE}|GameStore\\GameStore.csproj|solutionrelative:gamestore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A9E713-B6F4-4419-A5AA-8C91E4D5BFFE}|GameStore\\GameStore.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\gamestore\\gamestore\\mapping\\genremapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A9E713-B6F4-4419-A5AA-8C91E4D5BFFE}|GameStore\\GameStore.csproj|solutionrelative:gamestore\\mapping\\genremapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A9E713-B6F4-4419-A5AA-8C91E4D5BFFE}|GameStore\\GameStore.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\gamestore\\gamestore\\mapping\\gamemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A9E713-B6F4-4419-A5AA-8C91E4D5BFFE}|GameStore\\GameStore.csproj|solutionrelative:gamestore\\mapping\\gamemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A9E713-B6F4-4419-A5AA-8C91E4D5BFFE}|GameStore\\GameStore.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\gamestore\\gamestore\\entities\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A9E713-B6F4-4419-A5AA-8C91E4D5BFFE}|GameStore\\GameStore.csproj|solutionrelative:gamestore\\entities\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A9E713-B6F4-4419-A5AA-8C91E4D5BFFE}|GameStore\\GameStore.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\gamestore\\gamestore\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A9E713-B6F4-4419-A5AA-8C91E4D5BFFE}|GameStore\\GameStore.csproj|solutionrelative:gamestore\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A9E713-B6F4-4419-A5AA-8C91E4D5BFFE}|GameStore\\GameStore.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\gamestore\\gamestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A9E713-B6F4-4419-A5AA-8C91E4D5BFFE}|GameStore\\GameStore.csproj|solutionrelative:gamestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A9E713-B6F4-4419-A5AA-8C91E4D5BFFE}|GameStore\\GameStore.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\gamestore\\gamestore\\endpoints\\genresendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A9E713-B6F4-4419-A5AA-8C91E4D5BFFE}|GameStore\\GameStore.csproj|solutionrelative:gamestore\\endpoints\\genresendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A9E713-B6F4-4419-A5AA-8C91E4D5BFFE}|GameStore\\GameStore.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\gamestore\\gamestore\\endpoints\\gamesendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A9E713-B6F4-4419-A5AA-8C91E4D5BFFE}|GameStore\\GameStore.csproj|solutionrelative:gamestore\\endpoints\\gamesendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A9E713-B6F4-4419-A5AA-8C91E4D5BFFE}|GameStore\\GameStore.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\gamestore\\gamestore\\dtos\\updategamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A9E713-B6F4-4419-A5AA-8C91E4D5BFFE}|GameStore\\GameStore.csproj|solutionrelative:gamestore\\dtos\\updategamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A9E713-B6F4-4419-A5AA-8C91E4D5BFFE}|GameStore\\GameStore.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\gamestore\\gamestore\\data\\dataextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A9E713-B6F4-4419-A5AA-8C91E4D5BFFE}|GameStore\\GameStore.csproj|solutionrelative:gamestore\\data\\dataextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A9E713-B6F4-4419-A5AA-8C91E4D5BFFE}|GameStore\\GameStore.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\gamestore\\gamestore\\dtos\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A9E713-B6F4-4419-A5AA-8C91E4D5BFFE}|GameStore\\GameStore.csproj|solutionrelative:gamestore\\dtos\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A9E713-B6F4-4419-A5AA-8C91E4D5BFFE}|GameStore\\GameStore.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\gamestore\\gamestore\\data\\gamestorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A9E713-B6F4-4419-A5AA-8C91E4D5BFFE}|GameStore\\GameStore.csproj|solutionrelative:gamestore\\data\\gamestorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A9E713-B6F4-4419-A5AA-8C91E4D5BFFE}|GameStore\\GameStore.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\gamestore\\gamestore\\dtos\\gamesummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A9E713-B6F4-4419-A5AA-8C91E4D5BFFE}|GameStore\\GameStore.csproj|solutionrelative:gamestore\\dtos\\gamesummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A9E713-B6F4-4419-A5AA-8C91E4D5BFFE}|GameStore\\GameStore.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\gamestore\\gamestore\\dtos\\gamedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A9E713-B6F4-4419-A5AA-8C91E4D5BFFE}|GameStore\\GameStore.csproj|solutionrelative:gamestore\\dtos\\gamedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A9E713-B6F4-4419-A5AA-8C91E4D5BFFE}|GameStore\\GameStore.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\gamestore\\gamestore\\dtos\\creategamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A9E713-B6F4-4419-A5AA-8C91E4D5BFFE}|GameStore\\GameStore.csproj|solutionrelative:gamestore\\dtos\\creategamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D7A9E713-B6F4-4419-A5AA-8C91E4D5BFFE}|GameStore\\GameStore.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\gamestore\\gamestore\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D7A9E713-B6F4-4419-A5AA-8C91E4D5BFFE}|GameStore\\GameStore.csproj|solutionrelative:gamestore\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D7A9E713-B6F4-4419-A5AA-8C91E4D5BFFE}|GameStore\\GameStore.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\gamestore\\gamestore\\games.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{D7A9E713-B6F4-4419-A5AA-8C91E4D5BFFE}|GameStore\\GameStore.csproj|solutionrelative:gamestore\\games.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A9E713-B6F4-4419-A5AA-8C91E4D5BFFE}|GameStore\\GameStore.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\gamestore\\gamestore\\genres.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{D7A9E713-B6F4-4419-A5AA-8C91E4D5BFFE}|GameStore\\GameStore.csproj|solutionrelative:gamestore\\genres.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -77,48 +17,9 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 997,
-          "SelectedChildIndex": 7,
+          "DockedWidth": 712,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "games.http",
-              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\GameStore\\GameStore\\games.http",
-              "RelativeDocumentMoniker": "GameStore\\games.http",
-              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\GameStore\\GameStore\\games.http",
-              "RelativeToolTip": "GameStore\\games.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-06-25T18:55:05.646Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GamesEndpoints.cs",
-              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\GameStore\\GameStore\\Endpoints\\GamesEndpoints.cs",
-              "RelativeDocumentMoniker": "GameStore\\Endpoints\\GamesEndpoints.cs",
-              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\GameStore\\GameStore\\Endpoints\\GamesEndpoints.cs",
-              "RelativeToolTip": "GameStore\\Endpoints\\GamesEndpoints.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T11:21:46.155Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "genres.http",
-              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\GameStore\\GameStore\\genres.http",
-              "RelativeDocumentMoniker": "GameStore\\genres.http",
-              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\GameStore\\GameStore\\genres.http",
-              "RelativeToolTip": "GameStore\\genres.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-07-10T15:00:06.674Z",
-              "IsPinned": true
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:1358152725:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
@@ -138,177 +39,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\GameStore\\GameStore\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "GameStore\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\GameStore\\GameStore\\Properties\\launchSettings.json",
-              "RelativeToolTip": "GameStore\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-12T18:24:30.409Z",
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\GameStore\\GameStore\\Dockerfile",
+              "RelativeDocumentMoniker": "GameStore\\Dockerfile",
+              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\GameStore\\GameStore\\Dockerfile",
+              "RelativeToolTip": "GameStore\\Dockerfile",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-01T18:17:28.334Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Genre.cs",
-              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\GameStore\\GameStore\\Entities\\Genre.cs",
-              "RelativeDocumentMoniker": "GameStore\\Entities\\Genre.cs",
-              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\GameStore\\GameStore\\Entities\\Genre.cs",
-              "RelativeToolTip": "GameStore\\Entities\\Genre.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T14:05:19.942Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UpdateGameDto.cs",
-              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\GameStore\\GameStore\\Dtos\\UpdateGameDto.cs",
-              "RelativeDocumentMoniker": "GameStore\\Dtos\\UpdateGameDto.cs",
-              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\GameStore\\GameStore\\Dtos\\UpdateGameDto.cs",
-              "RelativeToolTip": "GameStore\\Dtos\\UpdateGameDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T09:41:18.847Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\GameStore\\GameStore\\Entities\\Game.cs",
-              "RelativeDocumentMoniker": "GameStore\\Entities\\Game.cs",
-              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\GameStore\\GameStore\\Entities\\Game.cs",
-              "RelativeToolTip": "GameStore\\Entities\\Game.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T17:09:33.454Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DataExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\GameStore\\GameStore\\Data\\DataExtensions.cs",
-              "RelativeDocumentMoniker": "GameStore\\Data\\DataExtensions.cs",
-              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\GameStore\\GameStore\\Data\\DataExtensions.cs",
-              "RelativeToolTip": "GameStore\\Data\\DataExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T17:08:53.505Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GenresEndPoints.cs",
-              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\GameStore\\GameStore\\Endpoints\\GenresEndPoints.cs",
-              "RelativeDocumentMoniker": "GameStore\\Endpoints\\GenresEndPoints.cs",
-              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\GameStore\\GameStore\\Endpoints\\GenresEndPoints.cs",
-              "RelativeToolTip": "GameStore\\Endpoints\\GenresEndPoints.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAkwA8AAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T14:53:24.91Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GenreMapping.cs",
-              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\GameStore\\GameStore\\Mapping\\GenreMapping.cs",
-              "RelativeDocumentMoniker": "GameStore\\Mapping\\GenreMapping.cs",
-              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\GameStore\\GameStore\\Mapping\\GenreMapping.cs",
-              "RelativeToolTip": "GameStore\\Mapping\\GenreMapping.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T14:50:42.423Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GenreDto.cs",
-              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\GameStore\\GameStore\\Dtos\\GenreDto.cs",
-              "RelativeDocumentMoniker": "GameStore\\Dtos\\GenreDto.cs",
-              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\GameStore\\GameStore\\Dtos\\GenreDto.cs",
-              "RelativeToolTip": "GameStore\\Dtos\\GenreDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T14:49:43.989Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "GameDetailsDto.cs",
-              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\GameStore\\GameStore\\Dtos\\GameDetailsDto.cs",
-              "RelativeDocumentMoniker": "GameStore\\Dtos\\GameDetailsDto.cs",
-              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\GameStore\\GameStore\\Dtos\\GameDetailsDto.cs",
-              "RelativeToolTip": "GameStore\\Dtos\\GameDetailsDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T10:24:16.608Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "GameSummaryDto.cs",
-              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\GameStore\\GameStore\\Dtos\\GameSummaryDto.cs",
-              "RelativeDocumentMoniker": "GameStore\\Dtos\\GameSummaryDto.cs",
-              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\GameStore\\GameStore\\Dtos\\GameSummaryDto.cs",
-              "RelativeToolTip": "GameStore\\Dtos\\GameSummaryDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T10:22:29.912Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 99,
-          "SelectedChildIndex": 3,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\GameStore\\GameStore\\Program.cs",
-              "RelativeDocumentMoniker": "GameStore\\Program.cs",
-              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\GameStore\\GameStore\\Program.cs",
-              "RelativeToolTip": "GameStore\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T18:41:51.029Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "GameStoreContext.cs",
-              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\GameStore\\GameStore\\Data\\GameStoreContext.cs",
-              "RelativeDocumentMoniker": "GameStore\\Data\\GameStoreContext.cs",
-              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\GameStore\\GameStore\\Data\\GameStoreContext.cs",
-              "RelativeToolTip": "GameStore\\Data\\GameStoreContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T16:40:23.646Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CreateGameDto.cs",
-              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\GameStore\\GameStore\\Dtos\\CreateGameDto.cs",
-              "RelativeDocumentMoniker": "GameStore\\Dtos\\CreateGameDto.cs",
-              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\GameStore\\GameStore\\Dtos\\CreateGameDto.cs",
-              "RelativeToolTip": "GameStore\\Dtos\\CreateGameDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T16:48:50.304Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GameMapping.cs",
-              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\GameStore\\GameStore\\Mapping\\GameMapping.cs",
-              "RelativeDocumentMoniker": "GameStore\\Mapping\\GameMapping.cs",
-              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\GameStore\\GameStore\\Mapping\\GameMapping.cs",
-              "RelativeToolTip": "GameStore\\Mapping\\GameMapping.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAgwAcAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T09:52:32.633Z",
+              "Title": "games.http",
+              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\GameStore\\GameStore\\games.http",
+              "RelativeDocumentMoniker": "GameStore\\games.http",
+              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\GameStore\\GameStore\\games.http",
+              "RelativeToolTip": "GameStore\\games.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-01T18:13:29.723Z",
               "EditorCaption": ""
             }
           ]

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "P9NhsR+YpQpSWzAedH+8oSJpQ0+SqICZODggL7aaJfMsyOW5r9NVOmT2l22tOnlEsIJJjO7pQRakl2dC2BxJyA==",
+  "dgSpecHash": "BZhdwkoY4CLUjI3qhNrUMZUdYSrI6hU7J+4zt/xXAH7MdYXfBbAPzp4wpcQFkag8zWRFJzV3bUDwGtBV2V1+5Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\GameStore\\GameStore\\GameStore.csproj",
   "expectedPackageFiles": [
@@ -36,6 +36,7 @@
     "C:\\Users\\demro\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0-preview.5.24306.7\\microsoft.extensions.primitives.9.0.0-preview.5.24306.7.nupkg.sha512",
     "C:\\Users\\demro\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\demro\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\demro\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512",
     "C:\\Users\\demro\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\demro\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\demro\\.nuget\\packages\\minimalapis.extensions\\0.11.0\\minimalapis.extensions.0.11.0.nupkg.sha512",
